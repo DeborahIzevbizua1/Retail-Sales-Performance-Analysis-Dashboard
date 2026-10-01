@@ -1,5 +1,8 @@
 # Retail-Sales-Performance-Analysis-Dashboard
 An interactive retail sales analysis and dashboard exploring revenue, transactions, product performance, customer value, payment methods, and sales trends over time.
+
+https://github.com/DeborahIzevbizua1/Retail-Sales-Performance-Analysis-Dashboard/blob/9409898d675fd76d7249c70f5a122f52dc3bad0b/Retail%20Sales.png
+
 ## Project Overview
 This project presents an analysis of retail sales data to evaluate revenue performance, product performance, sales volume, customer purchasing value, payment behaviour, location performance, and transaction trends over time.
 The project involved cleaning and transforming the raw dataset using Power Query, creating analytical measures in Power BI, and developing an interactive dashboard to explore relationships between sales volume, pricing, revenue, transaction value, location, payment method, and time. Rather than looking at revenue as an isolated metric, the analysis examines the factors that contribute to revenue performance and how different sales metrics relate to one another.
