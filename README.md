@@ -57,11 +57,15 @@ The dashboard begins with six key performance indicators;
 
 Together, these metrics provide an overview of the scale and value of the retail activity represented in the dataset. Revenue and transaction volume show the overall scale of sales, while quantity sold provides a view of sales volume. Average selling price and average order value provide additional context for understanding how that sales volume translates into monetary value.
 #### 2. Revenue and Transaction Activity Over Time: 
+<img width="505" height="359" alt="Screenshot 2026-10-01 181607" src="https://github.com/user-attachments/assets/708c28f7-e339-460b-8923-91434f250dbf" />
+
 The dashboard uses both Revenue Trend Over Time and Monthly Transactions to examine sales performance across the period covered by the dataset. The transaction chart shows how the number of transactions changes from month to month, while the revenue trend shows how the monetary value generated changes over the same period.
 
 Looking at both measures together allows changes in transaction activity to be considered alongside changes in revenue. Periods with similar transaction volumes can still produce different revenue levels because the value generated from each transaction can vary. This connects the time-based analysis back to Average Order Value, which helps explain the value of transactions beyond simply counting how many occurred.
 The combined view therefore provides a more complete picture: Transaction Volume → Transaction Value → Revenue
 #### 3. Location & Average Order Value:
+<img width="583" height="293" alt="Screenshot 2026-10-01 180215" src="https://github.com/user-attachments/assets/86688e0a-4fb1-483a-a71d-737a803ef707" /> 
+
 The dashboard compares AOV between Online and In-store locations.
 - Online: 130.42
 - In-store: 128.87
@@ -69,6 +73,8 @@ The dashboard compares AOV between Online and In-store locations.
 Online transactions recorded a slightly higher average order value than in-store transactions. However, the difference between the two locations is relatively small, indicating that the overall AOV is not being driven by a large difference in average transaction value between the two locations. This comparison complements the overall 129.66 AOV KPI by showing how the overall figure is represented across the different purchasing locations.
 The relationship can therefore be viewed as: Overall AOV → Location-level AOV → Comparison of transaction value
 #### 4. Payment Method Analysis
+<img width="804" height="264" alt="Screenshot 2026-10-01 180436" src="https://github.com/user-attachments/assets/7c1e99b9-e647-44a3-a0d0-4554f40d60fc" /> 
+
 The dashboard examines payment behaviour through two related visualizations:
 - Percentage of Transactions by Payment Method
 - Revenue by Location and Payment Method
@@ -79,6 +85,8 @@ The transaction distribution shows the relative use of Cash, Digital Wallet, and
 
 This distinction is important because transaction frequency and revenue contribution do not necessarily move in the same proportion. A payment method with a large share of transactions may not automatically account for a proportionally larger share of revenue if the average value of those transactions differs. The location breakdown adds another layer by showing how payment behavior and revenue interact across online and in-store transactions.
 #### 5. Product, Price and Revenue Relationship
+<img width="905" height="272" alt="Screenshot 2026-10-01 175808" src="https://github.com/user-attachments/assets/eed88e9c-dc47-46cc-9310-256af2109fe4" /> 
+
 One of the key analytical relationships in the dashboard is the connection between:
 - Quantity Sold → Price per Unit → Revenue
 - Quantity sold represents sales volume, while price per unit determines how much revenue each unit contributes.
