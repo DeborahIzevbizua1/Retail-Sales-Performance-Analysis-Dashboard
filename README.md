@@ -1,7 +1,7 @@
 # Retail-Sales-Performance-Analysis-Dashboard
 An interactive retail sales analysis and dashboard exploring revenue, transactions, product performance, customer value, payment methods, and sales trends over time.
 
-https://github.com/DeborahIzevbizua1/Retail-Sales-Performance-Analysis-Dashboard/blob/9409898d675fd76d7249c70f5a122f52dc3bad0b/Retail%20Sales.png
+https://github.com/DeborahIzevbizua1/Retail-Sales-Performance-Analysis-Dashboard/blob/main/Retail%20Sales.png?raw=true
 
 ## Project Overview
 This project presents an analysis of retail sales data to evaluate revenue performance, product performance, sales volume, customer purchasing value, payment behaviour, location performance, and transaction trends over time.
